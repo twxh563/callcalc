@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/callcalc/static/css/main.15c40184.css",
-    "main.js": "/callcalc/static/js/main.19491ded.js",
+    "main.js": "/callcalc/static/js/main.6d779218.js",
     "index.html": "/callcalc/index.html",
     "main.15c40184.css.map": "/callcalc/static/css/main.15c40184.css.map",
-    "main.19491ded.js.map": "/callcalc/static/js/main.19491ded.js.map"
+    "main.6d779218.js.map": "/callcalc/static/js/main.6d779218.js.map"
   },
   "entrypoints": [
     "static/css/main.15c40184.css",
-    "static/js/main.19491ded.js"
+    "static/js/main.6d779218.js"
   ]
 }
