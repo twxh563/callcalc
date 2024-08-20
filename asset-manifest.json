@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/callcalc/static/css/main.f4630a73.css",
-    "main.js": "/callcalc/static/js/main.943a1c73.js",
+    "main.css": "/callcalc/static/css/main.15c40184.css",
+    "main.js": "/callcalc/static/js/main.19491ded.js",
     "index.html": "/callcalc/index.html",
-    "main.f4630a73.css.map": "/callcalc/static/css/main.f4630a73.css.map",
-    "main.943a1c73.js.map": "/callcalc/static/js/main.943a1c73.js.map"
+    "main.15c40184.css.map": "/callcalc/static/css/main.15c40184.css.map",
+    "main.19491ded.js.map": "/callcalc/static/js/main.19491ded.js.map"
   },
   "entrypoints": [
-    "static/css/main.f4630a73.css",
-    "static/js/main.943a1c73.js"
+    "static/css/main.15c40184.css",
+    "static/js/main.19491ded.js"
   ]
 }
