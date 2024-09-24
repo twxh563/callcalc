@@ -6,6 +6,15 @@
   margin-top: 10px;
 }
 
+.Bt-sq {
+  width: 24px;
+  height: 24px;
+  min-width: 0;
+}
+
+
+
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
